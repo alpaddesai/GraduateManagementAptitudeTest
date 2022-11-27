@@ -1,0 +1,79 @@
+﻿<Window x:Class="GraduateManagementAptitudeTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraduateManagementAptitudeTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="572" Width="784">
+    <Grid Margin="0,0,25,21">
+        <TabControl>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="TabItem">
+                            <Grid Background="#FFE5E5E5">
+                                <TabControl>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="7,6,3,4" Source="/GMATImage1.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="2,2,0,-2" Source="/GMATImage2.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                </TabControl>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="TabItem">
+                            <Grid Background="#FFE5E5E5">
+                                <TabControl>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="1,-2,-1,-15" Source="/GMATImage3.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="-6,-2,7,-5" Source="/GMATImage4.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                </TabControl>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="TabItem">
+                            <Grid Background="#FFE5E5E5">
+                                <TabControl>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="-7,-3,2,0" Source="/GMATImage5.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                    <TabItem Header="TabItem">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="4,3,3,-5" Source="/GMATImage6.jpg" Stretch="Fill"/>
+                                        </Grid>
+                                    </TabItem>
+                                </TabControl>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="TabItem">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="4,-1,2,1" Source="/image10.jpg" Stretch="Fill"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
