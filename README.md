@@ -14,6 +14,7 @@ Project provides an overview of the Graduate Management Aptitude Test
 
 ## ![image](GMATImage6.jpg)
 
+## 2018
 ## ![image](GMATImage7.jpg)
 
 Additional details reference https://github.com/alpaddesai/GraduateDegrees and https://github.com/alpaddesai/RealEstatePortfolioIdea2022.
