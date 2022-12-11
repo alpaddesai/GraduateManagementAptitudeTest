@@ -17,4 +17,4 @@ Project provides an overview of the Graduate Management Aptitude Test
 ## 2018 Unofficial Practice Test GMAT Score
 ## ![image](GMATImage7.jpg)
 
-Additional details reference  https://github.com/alpaddesai/RealEstatePortfolioIdea2022.
+Additional details reference  https://github.com/alpaddesai/RealEstatePortfolioIdea.
