@@ -10,8 +10,6 @@ Project provides an overview of the Graduate Management Aptitude Test
 
 ## ![image](GMATImage4.jpg)
 
-## ![image](GMATImage5.jpg)
-
 ## ![image](GMATImageofficial.jpg)
 
 ## 2018 Unofficial Practice Test GMAT Score
