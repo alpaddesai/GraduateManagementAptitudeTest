@@ -18,7 +18,7 @@ Project provides an overview of the Graduate Management Aptitude Test
 ## 2018 Official GMAT score
 ![image](GMATExam.jpg)
 
-## Practice test
+## 2023 Practice test
 ![image](PracticeTest.jpg)
 
 Additional details reference  https://github.com/alpaddesai/ExecutiveMBA
