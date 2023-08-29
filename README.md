@@ -10,15 +10,13 @@ Project provides an overview of the Graduate Management Aptitude Test
 
 ## ![image](GMATImage4.jpg)
 
-## ![image](GMATExamAnalytical_A-.jpg)
-
 ## ![image](GMATImageofficial.jpg)
 
 ## 2018 Unofficial Practice Test GMAT Score
 ## ![image](GMATImage7.jpg)
 
 ## 2018 Official GMAT score
-![image](GMATExam.jpg)
+## ![image](GMATExamAnalytical_A-.jpg)
 
 ## 2023 Practice test
 ![image](PracticeTest.jpg)
