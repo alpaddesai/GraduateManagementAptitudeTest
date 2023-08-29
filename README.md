@@ -10,7 +10,7 @@ Project provides an overview of the Graduate Management Aptitude Test
 
 ## ![image](GMATImage4.jpg)
 
-## ![image](GMATExamAnalytical.jpg)
+## ![image](GMATExamAnalytical_A-.jpg)
 
 ## ![image](GMATImageofficial.jpg)
 
